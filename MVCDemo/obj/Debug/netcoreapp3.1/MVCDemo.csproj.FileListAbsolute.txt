@@ -35,3 +35,4 @@ D:\Project\MVCDemo\MVCDemo\obj\Debug\netcoreapp3.1\MVCDemo.dll
 D:\Project\MVCDemo\MVCDemo\obj\Debug\netcoreapp3.1\MVCDemo.pdb
 D:\Project\MVCDemo\MVCDemo\obj\Debug\netcoreapp3.1\MVCDemo.genruntimeconfig.cache
 D:\Project\MVCDemo\MVCDemo\obj\Debug\netcoreapp3.1\MVCDemo.csproj.CopyComplete
+D:\Project\MVCDemo\MVCDemo\obj\Debug\netcoreapp3.1\Razor\Views\MovieList\Index.cshtml.g.cs
